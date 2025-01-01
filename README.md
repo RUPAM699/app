@@ -1,2 +1,0 @@
-# app
-financial-analysis-app
